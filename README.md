@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Software Engineer in Tokyo.
+
+### 🔍 Interest
+
+* Ruby / JavaScript
+* AWS / GCP
+* Container
+* GraphQL
+
 <!--
 **itinao/itinao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
