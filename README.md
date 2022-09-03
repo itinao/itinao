@@ -4,7 +4,9 @@ I'm a Software Engineer in Tokyo.
 
 ### 🔍 Interest
 
-* Ruby / JavaScript
+* Ruby / Go / JavaScript
+* Next.js
+* Terraform
 * AWS / GCP
 * Container
 * GraphQL
