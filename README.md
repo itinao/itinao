@@ -2,6 +2,8 @@
 
 I'm a Software Engineer in Tokyo.
 
+https://itinao-resume.vercel.app/
+
 ### 🔍 Interest
 
 * Ruby / Go / JavaScript
